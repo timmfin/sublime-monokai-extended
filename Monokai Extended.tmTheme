@@ -1832,7 +1832,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#D02000</string>
+				<string>#a7240f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1843,7 +1843,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DDB700</string>
+				<string>#b1950f</string>
 			</dict>
 		</dict>
 		<dict>
